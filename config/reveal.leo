@@ -28,6 +28,11 @@
 <v t="leo.20200321112417.3"><vh>封面投影片內容</vh></v>
 </v>
 </v>
+<v t="leo.20200321114614.1"><vh>投影片2</vh>
+<v t="leo.20200321114614.2"><vh>封面投影片</vh>
+<v t="leo.20200321114614.3"><vh>封面投影片內容</vh></v>
+</v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -366,6 +371,36 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 建立倉儲和架設網站
 * 準備組進行協同
 * 課程說明
+
+</t>
+<t tx="leo.20200321114614.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200321114614.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200321114614.3"># Week2
+
+&lt;small&gt;
+[Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
+&lt;/small&gt;
+
+* 亂數分組
+* 更新隨身系統
+* 選出組長
+* 利用直播進行線上小組開會
 
 </t>
 </tnodes>
