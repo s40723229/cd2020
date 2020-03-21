@@ -19,7 +19,14 @@
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
+<v t="leo.20200321112236.1"><vh>封面投影片</vh>
+<v t="leo.20200321112236.2"><vh>封面投影片內容</vh></v>
+</v>
+</v>
+<v t="leo.20200321112417.1"><vh>投影片1</vh>
+<v t="leo.20200321112417.2"><vh>封面投影片</vh>
+<v t="leo.20200321112417.3"><vh>封面投影片內容</vh></v>
+</v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -45,18 +52,6 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 協同產品設計
-
-### CD2020
-
-&lt;small&gt;
-Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -323,5 +318,55 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200321112236.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200321112236.2">## 協同產品設計
+
+### CD2020
+
+&lt;small&gt;
+Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200321112417.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200321112417.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200321112417.3"># Week1
+
+&lt;small&gt;
+[Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
+&lt;/small&gt;
+
+* 建立倉儲和架設網站
+* 準備組進行協同
+* 課程說明
+
+</t>
 </tnodes>
 </leo_file>
