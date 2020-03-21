@@ -27,6 +27,9 @@
 <v t="leo.20200321120434.1"><vh>投影片2</vh>
 <v t="leo.20200321120434.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200321123845.1"><vh>投影片3</vh>
+<v t="leo.20200321123845.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -344,6 +347,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 * 建立倉儲和架設網站
 * 準備組進行協同
+* 利用gitter進行問題討論
 * 課程說明
 
 </t>
@@ -366,6 +370,27 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 更新隨身系統
 * 選出組長
 * 利用直播進行線上小組開會
+</t>
+<t tx="leo.20200321123845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200321123845.2"># Week3
+
+&lt;small&gt;
+[Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
+&lt;/small&gt;
+
+* 以作業項目再分出小組分工並選出小組長
+* 會議內容製作成pdf放入倉儲download資料夾[download](https://github.com/s40723229/cd2020/tree/master/downloads)
+* 課堂抽點報告
+* 創建分組倉儲cd2020bg1
+
 </t>
 </tnodes>
 </leo_file>
