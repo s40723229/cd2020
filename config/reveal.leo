@@ -18,20 +18,14 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
-<v t="leo.20200321112236.1"><vh>封面投影片</vh>
-<v t="leo.20200321112236.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200321120214.1"><vh>封面投影片</vh>
+<v t="leo.20200321120214.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200321120327.1"><vh>投影片1</vh>
+<v t="leo.20200321120327.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200321112417.1"><vh>投影片1</vh>
-<v t="leo.20200321112417.2"><vh>封面投影片</vh>
-<v t="leo.20200321112417.3"><vh>封面投影片內容</vh></v>
-</v>
-</v>
-<v t="leo.20200321114614.1"><vh>投影片2</vh>
-<v t="leo.20200321114614.2"><vh>封面投影片</vh>
-<v t="leo.20200321114614.3"><vh>封面投影片內容</vh></v>
-</v>
+<v t="leo.20200321120434.1"><vh>投影片2</vh>
+<v t="leo.20200321120434.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -238,15 +232,6 @@ CMSimfly 網際內容管理
 &lt;/div&gt;
 
 </t>
-<t tx="leo.20180902120523.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
 <t tx="leo.20180902120538.1"></t>
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -323,7 +308,7 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20200321112236.1">&lt;section data-markdown&gt;
+<t tx="leo.20200321120214.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -332,7 +317,7 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200321112236.2">## 協同產品設計
+<t tx="leo.20200321120214.2">## 協同產品設計
 
 ### CD2020
 
@@ -341,10 +326,8 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
-
-
 </t>
-<t tx="leo.20200321112417.1">&lt;section data-markdown&gt;
+<t tx="leo.20200321120327.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -353,16 +336,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200321112417.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200321112417.3"># Week1
+<t tx="leo.20200321120327.2"># Week1
 
 &lt;small&gt;
 [Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
@@ -373,7 +347,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 課程說明
 
 </t>
-<t tx="leo.20200321114614.1">&lt;section data-markdown&gt;
+<t tx="leo.20200321120434.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -382,16 +356,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200321114614.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20200321114614.3"># Week2
+<t tx="leo.20200321120434.2"># Week2
 
 &lt;small&gt;
 [Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
@@ -401,7 +366,6 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 更新隨身系統
 * 選出組長
 * 利用直播進行線上小組開會
-
 </t>
 </tnodes>
 </leo_file>
