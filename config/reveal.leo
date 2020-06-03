@@ -30,6 +30,9 @@
 <v t="leo.20200321123845.1"><vh>投影片3</vh>
 <v t="leo.20200321123845.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200603183348.1"><vh>投影片4</vh>
+<v t="leo.20200603183348.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -390,6 +393,27 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 會議內容製作成pdf放入倉儲download資料夾[download](https://github.com/s40723229/cd2020/tree/master/downloads)
 * 課堂抽點報告
 * 創建分組倉儲cd2020bg1
+
+</t>
+<t tx="leo.20200603183348.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200603183348.2"># Week4
+
+&lt;small&gt;
+[Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
+&lt;/small&gt;
+
+* 完成assignment1
+* 將完成的assignment1整理出pdf
+* pdf檔放到倉儲download下
+
 
 </t>
 </tnodes>
