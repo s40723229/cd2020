@@ -33,6 +33,9 @@
 <v t="leo.20200603183348.1"><vh>投影片4</vh>
 <v t="leo.20200603183348.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200611153110.1"><vh>投影片5</vh>
+<v t="leo.20200611153110.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -413,6 +416,26 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 完成assignment1
 * 將完成的assignment1整理出pdf
 * pdf檔放到倉儲download下
+
+
+</t>
+<t tx="leo.20200611153110.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200611153110.2"># Week5
+
+&lt;small&gt;
+[Week1~Week5](https://s40723229.github.io/cd2020/content/week1~week5.html)
+&lt;/small&gt;
+
+* 未完成assignment1的要完成
+* 進度暫停一周補前面的進度
 
 
 </t>
