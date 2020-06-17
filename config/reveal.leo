@@ -39,6 +39,9 @@
 <v t="leo.20200617140805.1"><vh>投影片6</vh>
 <v t="leo.20200617140805.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200617141548.1"><vh>投影片7</vh>
+<v t="leo.20200617141548.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -451,7 +454,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200617140805.2"># Week5
+<t tx="leo.20200617140805.2"># Week6
 
 &lt;small&gt;
 [Week6~Week9](https://s40723229.github.io/cd2020/content/week6~week9.html)
@@ -465,6 +468,29 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 &lt;small&gt;
 [報告影片](https://youtu.be/h3ZXIi7xrpI)
 &lt;/small&gt;
+
+
+</t>
+<t tx="leo.20200617141548.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617141548.2"># Week7
+
+&lt;small&gt;
+[Week6~Week9](https://s40723229.github.io/cd2020/content/week6~week9.html)
+&lt;/small&gt;
+
+* 配合google meet和youtube進行遠距教學
+* 學會使用google meet  
+* 完成上次分工內容
+
+
 
 
 </t>
