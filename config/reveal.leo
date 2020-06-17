@@ -36,6 +36,9 @@
 <v t="leo.20200611153110.1"><vh>投影片5</vh>
 <v t="leo.20200611153110.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200617140805.1"><vh>投影片6</vh>
+<v t="leo.20200617140805.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -436,6 +439,32 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 * 未完成assignment1的要完成
 * 進度暫停一周補前面的進度
+
+
+</t>
+<t tx="leo.20200617140805.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617140805.2"># Week5
+
+&lt;small&gt;
+[Week6~Week9](https://s40723229.github.io/cd2020/content/week6~week9.html)
+&lt;/small&gt;
+
+* 下載OBS並學會如何使用
+* 錄製的操作影片加上自己的錄像
+* 分配這周小組任務
+* 進行課堂抽點報告
+
+&lt;small&gt;
+[報告影片](https://youtu.be/h3ZXIi7xrpI)
+&lt;/small&gt;
 
 
 </t>
