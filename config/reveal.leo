@@ -57,6 +57,9 @@
 <v t="leo.20200623203359.1"><vh>投影片12</vh>
 <v t="leo.20200623203359.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200623210123.1"><vh>投影片13</vh>
+<v t="leo.20200623210123.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -617,6 +620,28 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 新增虛擬主機的連線埠號 
 * 新增putty連線利用putty連線虛擬主機
 * 實現遠端連線控制
+
+
+</t>
+<t tx="leo.20200623210123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623210123.2"># Week13
+
+&lt;small&gt;
+[Week10~Week14](https://s40723229.github.io/cd2020/content/week10~week14.html)
+&lt;/small&gt;
+
+* 利用filezilla資料傳輸
+* 利用putty連線虛擬主機
+* 把虛擬主機內的資料下載到主機編輯 
+* 方便編輯虛擬主機內的資料
 
 
 </t>
