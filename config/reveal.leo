@@ -54,6 +54,9 @@
 <v t="leo.20200623202902.1"><vh>投影片11</vh>
 <v t="leo.20200623202902.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200623203359.1"><vh>投影片12</vh>
+<v t="leo.20200623203359.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -592,6 +595,28 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 下載老師側設置的Ubuntu
 * 將Ubuntu設定好後用虛擬主機開v-rep
 
+
+
+</t>
+<t tx="leo.20200623203359.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623203359.2"># Week12
+
+&lt;small&gt;
+[Week10~Week14](https://s40723229.github.io/cd2020/content/week10~week14.html)
+&lt;/small&gt;
+
+* Remote API連線
+* 新增虛擬主機的連線埠號 
+* 新增putty連線利用putty連線虛擬主機
+* 實現遠端連線控制
 
 
 </t>
