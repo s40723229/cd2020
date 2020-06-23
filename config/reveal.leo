@@ -45,8 +45,11 @@
 <v t="leo.20200617172009.1"><vh>投影片8</vh>
 <v t="leo.20200617172009.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20200617204133.1"><vh>投影片9</vh>
-<v t="leo.20200617204133.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20200623201638.1"><vh>投影片9</vh>
+<v t="leo.20200623201638.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200623202246.1"><vh>投影片10</vh>
+<v t="leo.20200623202246.2"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -522,7 +525,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 
 </t>
-<t tx="leo.20200617204133.1">&lt;section data-markdown&gt;
+<t tx="leo.20200623201638.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -531,7 +534,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200617204133.2"># Week8
+<t tx="leo.20200623201638.2"># Week9
 
 &lt;small&gt;
 [Week6~Week9](https://s40723229.github.io/cd2020/content/week6~week9.html)
@@ -540,6 +543,28 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 利用google meet進行期中報告
 * 簡報錄製完後將影片設置成gmail帳號共享
 * 完成後填寫期中自評表單
+
+
+
+
+</t>
+<t tx="leo.20200623202246.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202246.2"># Week10
+
+&lt;small&gt;
+[Week10~Week14](https://s40723229.github.io/cd2020/content/week10~week14.html)
+&lt;/small&gt;
+
+* 啟用google api服務
+* 網站用戶gm登入設置 
 
 
 
