@@ -51,6 +51,9 @@
 <v t="leo.20200623202246.1"><vh>投影片10</vh>
 <v t="leo.20200623202246.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200623202902.1"><vh>投影片11</vh>
+<v t="leo.20200623202902.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -566,6 +569,28 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 啟用google api服務
 * 網站用戶gm登入設置 
 
+
+
+
+</t>
+<t tx="leo.20200623202902.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623202902.2"># Week11
+
+&lt;small&gt;
+[Week10~Week14](https://s40723229.github.io/cd2020/content/week10~week14.html)
+&lt;/small&gt;
+
+* 虛擬主機設置
+* 下載老師側設置的Ubuntu
+* 將Ubuntu設定好後用虛擬主機開v-rep
 
 
 
