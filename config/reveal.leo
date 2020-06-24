@@ -60,6 +60,9 @@
 <v t="leo.20200623210123.1"><vh>投影片13</vh>
 <v t="leo.20200623210123.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624113310.1"><vh>投影片14</vh>
+<v t="leo.20200624113310.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -642,6 +645,27 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 利用putty連線虛擬主機
 * 把虛擬主機內的資料下載到主機編輯 
 * 方便編輯虛擬主機內的資料
+
+
+</t>
+<t tx="leo.20200624113310.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624113310.2"># Week14
+
+&lt;small&gt;
+[Week10~Week14](https://s40723229.github.io/cd2020/content/week10~week14.html)
+&lt;/small&gt;
+
+* 開始課堂隨機抽點分組
+* 被抽到一樣組別要共同創建一個計劃
+*  確保每個人都能協同
 
 
 </t>
