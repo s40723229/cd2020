@@ -346,6 +346,15 @@
 <p><span>7. ./coppeliaSim.sh開啟v-rep這樣就能在虛擬主機開啟v-</span><span>rep</span></p>
 <p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/H0K7OZnlYyI" width="560"></iframe></span></p>
 <p>week12</p>
+<p>Remote API連線</p>
+<p>1.下載Xming軟體</p>
+<p>2.新增虛擬主機的NAT網路埠號</p>
+<p>3.新增一個putty連線用來連線虛擬主機，設定完後開啟</p>
+<p>4.開啟XLaunch.exe，開啟後的設定都按下一步就好</p>
+<p>5.putty連線的帳號密碼都是kmol2020</p>
+<p>6.之後就用虛擬主機開v-rep(操作和之前一樣)</p>
+<p>7.用編譯器開啟car_model.pycar_model.py連線虛擬主機打開的四輪車</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/7I6eeUDTHIk" width="560"></iframe></p>
 <p>IPv4 ubuntu對外連線</p>
 <p>1.ubuntu網路設定 NAT Network，新增網路埠號</p>
 <p><img alt="" height="200" src="/images/8319.jpg" width="267"/></p>
@@ -365,6 +374,67 @@
 <p><span>4.進入filezilla後設定SFTP SSH </span></p>
 <p><span>5.連接後就能將虛擬主機的文件下載或上傳</span></p>
 <p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/53nImMjY6K8" width="560"></iframe></span></p>
+<h2><span>week15~week18</span></h2>
+<p><span>IPv6 對外連線設定(學校內部網路操作)</span></p>
+<p>1.Ubuntu的網路IPv6設定勾選，主機網路 NAT Network</p>
+<p>2.進入虛擬主機的proxy設定</p>
+<p>cd /etc &gt; cd apt &gt; cd apt.conf.d</p>
+<p>3.sudo vi proxy.conf 輸入proxy設定 </p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="gutter">
+<div class="line number1 index0 alt2">1</div>
+</td>
+<td class="code">
+<div class="container">
+<div class="line number1 index0 alt2"><code class="js plain">Acquire::http::Proxy </code><code class="js string">"http://[2001:288:6004:17::53]:3128/"</code></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>4.:wq儲存後，sudo apt update 更新apt</p>
+<p>5.ifconfig &gt; sudo apt install net-tool ， cd etc &gt; cd netplan </p>
+<p>6.sudo vi 00-installer-config.yaml ，輸入設定</p>
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td class="gutter">
+<div class="line number1 index0 alt2">1</div>
+<div class="line number2 index1 alt1">2</div>
+<div class="line number3 index2 alt2">3</div>
+<div class="line number4 index3 alt1">4</div>
+<div class="line number5 index4 alt2">5</div>
+<div class="line number6 index5 alt1">6</div>
+<div class="line number7 index6 alt2">7</div>
+<div class="line number8 index7 alt1">8</div>
+<div class="line number9 index8 alt2">9</div>
+</td>
+<td class="code">
+<div class="container">
+<div class="line number1 index0 alt2"><code class="js plain">network:</code></div>
+<div class="line number2 index1 alt1"><code class="js spaces">  </code><code class="js plain">ethernets:</code></div>
+<div class="line number3 index2 alt2"><code class="js spaces">    </code><code class="js plain">enp0s3:</code></div>
+<div class="line number4 index3 alt1"><code class="js spaces">        </code><code class="js plain">dhcp4: </code><code class="js keyword">true</code></div>
+<div class="line number5 index4 alt2"><code class="js spaces">        </code><code class="js plain">dhcp6: </code><code class="js keyword">true</code></div>
+<div class="line number6 index5 alt1"><code class="js spaces">        </code><code class="js plain">nameservers:</code></div>
+<div class="line number7 index6 alt2"><code class="js spaces">            </code><code class="js plain">addresses:</code></div>
+<div class="line number8 index7 alt1"><code class="js spaces">                </code><code class="js plain">- 2001:b000:168::1</code></div>
+<div class="line number9 index8 alt2"><code class="js spaces">  </code><code class="js plain">version: 2</code></div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>8.sudo netplan apply 更新網路設定，ping6 2001:288:6004:17::2554測試連線</p>
+<p>9.VitualBox 新增IPv6連線埠號，連線主機埠號是虛擬主機的IPv6 IP</p>
+<p>10.進入cd2020pj1 &gt; git config --global --add http.proxy [2001:288:6004:17::53]:3128</p>
+<p>11.git pull 更新，在tmp下 sudo vi oauth_gm.txt 新增檔案</p>
+<p>12.sudo vi wsgi.py，近端host改為:: ，修改完後儲存，python3 wsgi.py 開啟連線</p>
+<p>13.網址 https//[::1]:18443/along ，即可連到虛擬主機cd2020pj1</p>
+<p><span></span></p>
+<p><span></span></p>
 <p><span></span></p>
 </div>
 </div>
