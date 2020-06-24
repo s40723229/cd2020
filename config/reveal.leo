@@ -734,7 +734,7 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
 * 期末報告
-&lt;iframe width="956" height="538" src="https://www.youtube.com/embed/1x2gLBUNnBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="314" src="https://www.youtube.com/embed/1x2gLBUNnBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
