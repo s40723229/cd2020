@@ -63,6 +63,15 @@
 <v t="leo.20200624113310.1"><vh>投影片14</vh>
 <v t="leo.20200624113310.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624114025.1"><vh>投影片15</vh>
+<v t="leo.20200624114025.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624114405.1"><vh>投影片16</vh>
+<v t="leo.20200624114405.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624114731.1"><vh>投影片17</vh>
+<v t="leo.20200624114731.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -666,6 +675,65 @@ Created by [40723229](https://s40723229.github.io/cd2020/content/index.html)
 * 開始課堂隨機抽點分組
 * 被抽到一樣組別要共同創建一個計劃
 *  確保每個人都能協同
+
+
+</t>
+<t tx="leo.20200624114025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624114025.2"># Week15
+
+&lt;small&gt;
+[Week15~Week18](https://s40723229.github.io/cd2020/content/week15~week18.html)
+&lt;/small&gt;
+
+* 虛擬主機的IPv6對外連線設定
+* 透過IPv6連線到課程網站
+
+
+</t>
+<t tx="leo.20200624114405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624114405.2"># Week16
+
+&lt;small&gt;
+[Week15~Week18](https://s40723229.github.io/cd2020/content/week15~week18.html)
+&lt;/small&gt;
+
+* 虛擬主機的IPv6連線個人倉儲
+* 把自己的倉儲放在虛擬主機可透過IPv6連線
+
+
+</t>
+<t tx="leo.20200624114731.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624114731.2"># Week17
+
+&lt;small&gt;
+[Week15~Week18](https://s40723229.github.io/cd2020/content/week15~week18.html)
+&lt;/small&gt;
+
+* 期末報告
 
 
 </t>
